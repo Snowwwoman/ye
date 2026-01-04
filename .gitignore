@@ -1,0 +1,13 @@
+# 彻底忽略所有虚拟环境目录（不管名字怎么变）
+venv*/
+env*/
+# 忽略所有大文件类型
+*.dll
+*.pyd
+*.lib
+*.so
+*.zip
+*.rar
+# Python缓存文件
+__pycache__/
+*.pycs/

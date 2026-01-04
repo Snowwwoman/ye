@@ -1,0 +1,35 @@
+{
+  "version": "3.2.2",
+  "flags": {},
+  "shapes": [
+    {
+      "label": "r",
+      "score": null,
+      "points": [
+        [
+          57.03703703703707,
+          46.2936507936508
+        ],
+        [
+          60.2116402116402,
+          84.38888888888889
+        ],
+        [
+          21.058201058201064,
+          84.91798941798942
+        ]
+      ],
+      "group_id": null,
+      "description": "",
+      "difficult": false,
+      "shape_type": "polygon",
+      "flags": {},
+      "attributes": {},
+      "kie_linking": []
+    }
+  ],
+  "imagePath": "snap_20251231_100617_0.jpg",
+  "imageData": null,
+  "imageHeight": 491,
+  "imageWidth": 440
+}

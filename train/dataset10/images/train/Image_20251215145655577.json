@@ -1,0 +1,126 @@
+{
+  "version": "3.3.1",
+  "flags": {},
+  "shapes": [
+    {
+      "label": "m",
+      "score": null,
+      "points": [
+        [
+          1495.6774193548385,
+          781.5268817204301
+        ],
+        [
+          1802.1290322580644,
+          777.2258064516129
+        ],
+        [
+          1805.3548387096773,
+          1118.0860215053763
+        ],
+        [
+          1507.505376344086,
+          1121.3118279569892
+        ]
+      ],
+      "group_id": null,
+      "description": "",
+      "difficult": false,
+      "shape_type": "polygon",
+      "flags": {},
+      "attributes": {},
+      "kie_linking": []
+    },
+    {
+      "label": "m",
+      "score": null,
+      "points": [
+        [
+          1865.5698924731182,
+          366.4731182795699
+        ],
+        [
+          2024.7096774193546,
+          613.7849462365592
+        ],
+        [
+          2323.6344086021504,
+          434.2150537634409
+        ],
+        [
+          2163.4193548387098,
+          182.60215053763446
+        ]
+      ],
+      "group_id": null,
+      "description": "",
+      "difficult": false,
+      "shape_type": "polygon",
+      "flags": {},
+      "attributes": {},
+      "kie_linking": []
+    },
+    {
+      "label": "m",
+      "score": null,
+      "points": [
+        [
+          1261.268817204301,
+          1479.3763440860214
+        ],
+        [
+          1592.4516129032259,
+          1578.3010752688172
+        ],
+        [
+          1506.4301075268816,
+          1867.5483870967741
+        ],
+        [
+          1173.0967741935483,
+          1769.6989247311826
+        ]
+      ],
+      "group_id": null,
+      "description": "",
+      "difficult": false,
+      "shape_type": "polygon",
+      "flags": {},
+      "attributes": {},
+      "kie_linking": []
+    },
+    {
+      "label": "m",
+      "score": null,
+      "points": [
+        [
+          2066.9278350515465,
+          1354.4123711340205
+        ],
+        [
+          2179.298969072165,
+          1633.7938144329896
+        ],
+        [
+          2496.824742268041,
+          1500.8041237113403
+        ],
+        [
+          2386.5154639175257,
+          1223.4845360824743
+        ]
+      ],
+      "group_id": null,
+      "description": "",
+      "difficult": false,
+      "shape_type": "polygon",
+      "flags": {},
+      "attributes": {},
+      "kie_linking": []
+    }
+  ],
+  "imagePath": "Image_20251215145655577.bmp",
+  "imageData": null,
+  "imageHeight": 2048,
+  "imageWidth": 3072
+}

@@ -1,0 +1,126 @@
+{
+  "version": "3.2.2",
+  "flags": {},
+  "shapes": [
+    {
+      "label": "m",
+      "score": null,
+      "points": [
+        [
+          444.88888888888897,
+          614.0
+        ],
+        [
+          598.2222222222224,
+          1042.888888888889
+        ],
+        [
+          976.0000000000002,
+          907.3333333333333
+        ],
+        [
+          816.0000000000002,
+          482.8888888888889
+        ]
+      ],
+      "group_id": null,
+      "description": "",
+      "difficult": false,
+      "shape_type": "polygon",
+      "flags": {},
+      "attributes": {},
+      "kie_linking": []
+    },
+    {
+      "label": "m",
+      "score": null,
+      "points": [
+        [
+          536.0,
+          1156.2222222222224
+        ],
+        [
+          313.7777777777779,
+          1478.4444444444446
+        ],
+        [
+          693.7777777777778,
+          1727.3333333333335
+        ],
+        [
+          904.8888888888889,
+          1394.0
+        ]
+      ],
+      "group_id": null,
+      "description": "",
+      "difficult": false,
+      "shape_type": "polygon",
+      "flags": {},
+      "attributes": {},
+      "kie_linking": []
+    },
+    {
+      "label": "m",
+      "score": null,
+      "points": [
+        [
+          1202.6666666666667,
+          571.7777777777777
+        ],
+        [
+          1011.5555555555557,
+          987.3333333333333
+        ],
+        [
+          1382.6666666666667,
+          1145.111111111111
+        ],
+        [
+          1571.5555555555557,
+          734.0
+        ]
+      ],
+      "group_id": null,
+      "description": "",
+      "difficult": false,
+      "shape_type": "polygon",
+      "flags": {},
+      "attributes": {},
+      "kie_linking": []
+    },
+    {
+      "label": "m",
+      "score": null,
+      "points": [
+        [
+          1769.3333333333335,
+          1265.111111111111
+        ],
+        [
+          1707.1111111111113,
+          1654.0
+        ],
+        [
+          2158.222222222222,
+          1722.888888888889
+        ],
+        [
+          2213.777777777778,
+          1325.111111111111
+        ]
+      ],
+      "group_id": null,
+      "description": "",
+      "difficult": false,
+      "shape_type": "polygon",
+      "flags": {},
+      "attributes": {},
+      "kie_linking": []
+    }
+  ],
+  "imagePath": "snap_20251231_100700.png",
+  "imageData": null,
+  "imageHeight": 2048,
+  "imageWidth": 3072
+}
